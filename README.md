@@ -54,3 +54,38 @@ The mobile app will interact with the Stellar blockchain using the [Stellar Flut
 * **Soroban Smart Contracts** – (*Future scope*) Exploring contract deployment on Stellar’s Soroban.
 
 📌 *Additional Notes*: The SDK documentation details [transaction signing and submission](https://github.com/Soneso/stellar_flutter_sdk/blob/master/soroban.md), ensuring compliance with Stellar's best practices.
+
+## ⭐System Architecture
+
+The application follows the principles of **Clean Architecture**, promoting a clear separation between the *presentation*, *domain*, and *data layers*. This approach enhances maintainability and scalability.
+
+* **Presentation Layer**: Manages the UI components and user interactions. Utilizes the BLoC pattern to handle state management, ensuring a reactive and streamlined user experience.
+* **Domain Layer**: Contains the core business logic and entities. Defines use cases that encapsulate application-specific business rules.
+* **Data Layer**: Responsible for data retrieval from external sources, such as the Stellar network, and local storage. Implements repositories that abstract the data sources, providing a clean API to the domain layer.
+
+### **BloC Pattern for State Management in Flutter**
+
+The BloC (_Business Logic Component_) pattern is a powerful state management approach in Flutter that promotes separation of concerns by managing business logic and UI separately. It utilizes **Streams** and **Sinks** to handle state changes reactively, making applications more scalable and testable.
+
+**How it Works**
+
+* **Events**: The UI triggers events when a user interacts with the app.
+* **Bloc**: The event is processed within the Bloc, where business logic executes and determines the new state.
+* **States**: The UI listens to state changes and updates accordingly.
+
+**Key Benefits**
+* Clear separation of UI and logic, enhancing maintainability.
+* Reactive programming, improving performance and responsiveness.
+* Scalability, making it suitable for complex applications.
+
+Flutter provides the [flutter_bloc](https://pub.dev/packages/flutter_bloc) package, which simplifies the implementation of the BloC pattern and integrates seamlessly with widgets.
+
+### **Security Considerations**
+
+Security is paramount in the design of NemorixPay. Key measures include:
+
+* **Data Encryption**: Sensitive data is encrypted both in transit and at rest.
+* **Authentication**: Implementation of robust authentication mechanisms to ensure authorized access.
+* **Error Handling**: Comprehensive error handling to manage exceptions and maintain application stability.
+
+By adhering to these initial architectural principles and leveraging the capabilities of the Stellar network, NemorixPay aims to deliver a robust and user-centric platform for cross-border cryptocurrency transactions.
