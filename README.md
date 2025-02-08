@@ -7,7 +7,7 @@
 </p>
 <p align="left"> NemorixPay will be a mobile-first payment solution designed to bring seamless, stable, and efficient transactions to underserved communities in Venezuela and Mexico. Leveraging Stellar’s blockchain, NemorixPay will enable freelancers, small businesses, and content creators to receive payments in USDC, XLM, and other stable assets, bridging the gap between traditional and digital economies.</p>
 
-## Overview of NemorixPay Phase 1
+## :star:Overview of NemorixPay Phase 1
 
 <p align="left">NemorixPay is a mobile-first payment platform designed to facilitate cross-border transactions between the U.S. and Latin America, starting with Mexico and Venezuela. The Phase 1 development focuses on delivering a seamless, secure, and low-cost solution for crypto-based remittances, leveraging blockchain technology to enable instant transactions with minimal fees. The mobile application will support stablecoins like USDC and XLM, providing users with a reliable alternative to traditional remittance services.</p>
 
@@ -30,3 +30,27 @@
 
 <p align="left">Future phases will expand on this foundation by introducing fiat conversion, bank integrations, and additional compliance features.</p>
 
+## :star:Initial Technology Stack
+
+<p align="left">NemorixPay’s mobile application will be built with a modern technology stack optimized for security, scalability, and seamless integration with the Stellar blockchain. The selection of technologies ensures high performance, maintainability, and cross-platform support.</p>
+
+### Core Technologies
+
+* **Programming Language**: Dart
+* **Framework**: Flutter (for cross-platform mobile development, Android & iOS)
+* **State Management**: BLoC (Business Logic Component)
+* **Initial Backend Infrastructure**: Firebase (authentication, database, and cloud functions)
+* **Storage**: Secure Storage for sensitive data (e.g., user keys and credentials)
+* **Networking**: HTTP & WebSocket for real-time data fetching and transaction updates
+* **Cryptography**: Stellar SDK built-in cryptographic tools for signing transactions
+
+### Stellar Blockchain Integration
+
+The mobile app will interact with the Stellar blockchain using the [Stellar Flutter SDK](https://github.com/Soneso/stellar_flutter_sdk), which provides essential tools for:
+
+* **Account Management** – Creating and managing Stellar accounts.
+* **Transaction Handling** – Constructing, signing, and submitting transactions to the Stellar network.
+* **Balance & Payment Operations** – Querying balances, sending and receiving payments.
+* **Soroban Smart Contracts** – (*Future scope*) Exploring contract deployment on Stellar’s Soroban.
+
+📌 *Additional Notes*: The SDK documentation details [transaction signing and submission](https://github.com/Soneso/stellar_flutter_sdk/blob/master/soroban.md), ensuring compliance with Stellar's best practices.
