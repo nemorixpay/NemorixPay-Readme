@@ -89,3 +89,7 @@ Security is paramount in the design of NemorixPay. Key measures include:
 * **Error Handling**: Comprehensive error handling to manage exceptions and maintain application stability.
 
 By adhering to these initial architectural principles and leveraging the capabilities of the Stellar network, NemorixPay aims to deliver a robust and user-centric platform for cross-border cryptocurrency transactions.
+
+## :star:Overview of NemorixPay Phase 2
+
+**In progress** .. New files and info will be included here soon.
