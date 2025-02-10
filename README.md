@@ -55,6 +55,8 @@ The mobile app will interact with the Stellar blockchain using the [Stellar Flut
 
 📌 *Additional Notes*: The SDK documentation details [transaction signing and submission](https://github.com/Soneso/stellar_flutter_sdk/blob/master/soroban.md), ensuring compliance with Stellar's best practices.
 
+More details on "[Stellar Integration](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/stellar/stellar.md)" subsection.
+
 ## ⭐System Architecture
 
 The application follows the principles of **Clean Architecture**, promoting a clear separation between the *presentation*, *domain*, and *data layers*. This approach enhances maintainability and scalability.
@@ -80,6 +82,8 @@ The BloC (_Business Logic Component_) pattern is a powerful state management app
 
 Flutter provides the [flutter_bloc](https://pub.dev/packages/flutter_bloc) package, which simplifies the implementation of the BloC pattern and integrates seamlessly with widgets.
 
+More details on "[System Architecture](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/architecture/architecture.md)" subsection.
+
 ### **Security Considerations**
 
 Security is paramount in the design of NemorixPay. Key measures include:
@@ -89,6 +93,8 @@ Security is paramount in the design of NemorixPay. Key measures include:
 * **Error Handling**: Comprehensive error handling to manage exceptions and maintain application stability.
 
 By adhering to these initial architectural principles and leveraging the capabilities of the Stellar network, NemorixPay aims to deliver a robust and user-centric platform for cross-border cryptocurrency transactions.
+
+More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/security.md)" subsection.
 
 ## :star:Overview of NemorixPay Phase 2
 
