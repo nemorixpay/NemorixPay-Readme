@@ -7,3 +7,8 @@
 </p>
 
 ## Subsection: System Architecture
+
+NemorixPay implements the Clean Architecture software design pattern and the BLoC state management pattern. Details of these patterns can be found here:
+
+* [NemorixPay: Clean Architecture](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/architecture/cleanarchitecture.md)
+* [NemorixPay: BloC](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/architecture/bloc.md)
