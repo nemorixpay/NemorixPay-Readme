@@ -96,6 +96,17 @@ By adhering to these initial architectural principles and leveraging the capabil
 
 More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/security.md)" subsection.
 
-## :star:Overview of NemorixPay Phase 2
+## :star:Overview of NemorixPay Phase 2 (Future!)
 
-**In progress** .. New files and info will be included here soon.
+**Phase 2** should expand NemorixPay beyond mobile, offering a secure, scalable, and intuitive web solution for both individual users and merchants. This phase ensures a seamless experience across platforms while leveraging **Stellar’s blockchain** capabilities for fast and low-cost transactions.
+
+### 🎯 Objective:  
+Develop a web-based platform that mirrors and extends NemorixPay’s mobile capabilities, providing users with additional flexibility to manage their finances, make payments, and access financial services from a desktop or browser.
+
+### 🔜 Next Steps for Phase 2:
+
+* **Define Tech Stack**: Will we use React, Next.js, or another framework?
+* **Design Wireframes**: Ensure UI/UX is aligned with mobile design.
+* **Set Up Backend**: Prepare APIs & Horizon connections for blockchain interactions.
+* **Security Audit**: Plan end-to-end encryption & secure login methods.
+* **Beta Testing**: Release a limited web beta for early adopters & businesses.
