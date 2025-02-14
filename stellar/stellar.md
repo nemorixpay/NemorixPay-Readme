@@ -55,16 +55,16 @@ The latest release, version *1.9.2*, introduces experimental support for Soroban
 
 For comprehensive documentation, example usage, and to access the source code, visit the [Stellar Flutter SDK GitHub repository](https://github.com/Soneso/stellar_flutter_sdk).
 
-## Example: Create a new Account in Mainnet
+## Example: Create a new Account
 
 ### 📌 Steps to Create a Stellar Account on Mainnet
-
-1️⃣ **Generate a Keypair (Public and Private Key)**
 
 Each Stellar account has:
 
 Public Key (Address) → Used to receive funds.  
 Private Key (Secret Key) → Used to sign transactions. (**Never share it!**)  
+
+1️⃣ **Generate a Keypair (Public and Private Key)**
 
 To generate a Keypair in Dart (Flutter) using the Stellar SDK:  
 
@@ -77,9 +77,25 @@ void main() {
   print("Secret Key: ${keyPair.secretSeed}");
 }
 ```
-🔹 **Store these keys securely**.  
+📌 **Store these keys securely**.  
 
-2️⃣ **Fund the New Account with at Least 1 XLM**
+ 🔹 **Create and fund a new account on Testnet**
+
+```dart
+StellarSDK sdk = StellarSDK.TESTNET;
+
+// Create a random key pair for our new account.
+KeyPair keyPair = KeyPair.random();
+
+// Ask the Friendbot to create our new account in the stellar network (only available in testnet).
+bool funded = await FriendBot.fundTestAccount(keyPair.accountId);
+
+// Load the data of the new account from stellar.
+AccountResponse account = await sdk.accounts.account(keyPair.accountId);
+```
+🔹 **You can play in testnet**. 
+
+2️⃣ **Fund the New Account with at Least 1 XLM** (*if Mainnet*)
 
 A Stellar account does not exist on the blockchain until it receives at least 1 XLM.
 
@@ -143,6 +159,38 @@ void sendPayment() async {
   SubmitTransactionResponse response = await sdk.submitTransaction(transaction);
   print("Transaction sent: ${response.hash}");
 }
+```
+
+🔹 Another Create Account Operation  
+```
+StellarSDK sdk = StellarSDK.TESTNET;
+
+// Build a key pair from the seed of an existing account. We will need it for signing.
+KeyPair existingAccountKeyPair = KeyPair.fromSecretSeed("SAPS66IJDXUSFDSDKIHR4LN6YPXIGCM5FBZ7GE66FDKFJRYJGFW7ZHYF");
+
+// Existing account id.
+String existingAccountId = existingAccountKeyPair.accountId;
+
+// Create a random keypair for a new account to be created.
+KeyPair newAccountKeyPair = KeyPair.random();
+
+// Load the data of the existing account so that we receive it's current sequence number.
+AccountResponse existingAccount = await sdk.accounts.account(existingAccountId);
+
+// Build a transaction containing a create account operation to create the new account.
+// Starting balance: 10 XLM.
+Transaction transaction = new TransactionBuilder(existingAccount)
+    .addOperation(new CreateAccountOperationBuilder(newAccountKeyPair.accountId, "10").build())
+    .build();
+
+// Sign the transaction with the key pair of the existing account.
+transaction.sign(existingAccountKeyPair, Network.TESTNET);
+
+// Submit the transaction to stellar.
+await sdk.submitTransaction(transaction);
+
+// Load the data of the new created account.
+AccountResponse newAccount = await sdk.accounts.account(newAccountKeyPair.accountId);
 ```
 
 ### 📌 Quick Summary
