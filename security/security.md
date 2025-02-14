@@ -8,7 +8,7 @@
 
 ## Subsection: Security
 
-### Overview
+### 🎯 Overview
 
 Security is a critical aspect of NemorixPay, ensuring that users can safely authenticate and transact on the platform. The authentication system follows best practices by integrating multi-layered security measures, including password-based login, biometric authentication, and Two-Factor Authentication (2FA).
 
