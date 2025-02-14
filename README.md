@@ -84,7 +84,7 @@ Flutter provides the [flutter_bloc](https://pub.dev/packages/flutter_bloc) packa
 
 More details on "[System Architecture](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/architecture/architecture.md)" subsection.
 
-### **Security Considerations**
+### Security Considerations
 
 Security is paramount in the design of NemorixPay. Key measures include:
 
@@ -95,6 +95,12 @@ Security is paramount in the design of NemorixPay. Key measures include:
 By adhering to these initial architectural principles and leveraging the capabilities of the Stellar network, NemorixPay aims to deliver a robust and user-centric platform for cross-border cryptocurrency transactions.
 
 More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/security.md)" subsection.
+
+### Testing & Quality Assurance
+
+Mobile Testing & QA ensures that a mobile application is functional, reliable, secure, and user-friendly before and after release. It involves testing on different devices, OS versions, screen sizes, and network conditions to guarantee a smooth user experience.
+
+More details on "[Testing & Quality Assurance](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/testing/testing.md)" subsection.
 
 ## :star:Overview of NemorixPay Phase 2 (Future!)
 
