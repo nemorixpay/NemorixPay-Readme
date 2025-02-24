@@ -5,11 +5,10 @@
 <p align="left">
   <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/Logo%20Nemorix.png" width="400" title="NemorixPay logo">
 </p>
-<p align="left"> NemorixPay will be a mobile-first payment solution designed to bring seamless, stable, and efficient transactions to underserved communities in Venezuela and Mexico. Leveraging Stellar’s blockchain, NemorixPay will enable freelancers, small businesses, and content creators to receive payments in USDC, XLM, and other stable assets, bridging the gap between traditional and digital economies.</p>
 
 ## :star:Overview of NemorixPay Phase 1
 
-<p align="left">NemorixPay is a mobile-first payment platform designed to facilitate cross-border transactions between the U.S. and Latin America, starting with Mexico and Venezuela. The Phase 1 development focuses on delivering a seamless, secure, and low-cost solution for crypto-based remittances, leveraging blockchain technology to enable instant transactions with minimal fees. The mobile application will support stablecoins like USDC and XLM, providing users with a reliable alternative to traditional remittance services.</p>
+<p align="left">NemorixPay will be a mobile-first payment platform designed to facilitate cross-border transactions between the U.S. and Latin America, starting with Mexico and Venezuela. The Phase 1 development focuses on delivering a seamless, secure, and low-cost solution for crypto-based remittances, leveraging blockchain technology to enable instant transactions with minimal fees. The mobile application will support stablecoins like USDC and XLM, providing users with a reliable alternative to traditional remittance services.</p>
 
 ### Goals and Scope of the Mobile Application
 
