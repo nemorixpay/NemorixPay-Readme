@@ -102,6 +102,12 @@ Mobile Testing & QA ensures that a mobile application is functional, reliable, s
 
 More details on "[Testing & Quality Assurance](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/testing/testing.md)" subsection.
 
+## ⭐ Basic Flowcharts
+
+These basic diagrams outline the user journey from opening the app to accessing the dashboard, including authentication checks, processing transactions, user settings, and some more options.
+
+More details on "[Basic flowcharts](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/flowcharts/flowcharts.md)"
+
 ## :star:Overview of NemorixPay Phase 2 (Future!)
 
 **Phase 2** should expand NemorixPay beyond mobile, offering a secure, scalable, and intuitive web solution for both individual users and merchants. This phase ensures a seamless experience across platforms while leveraging **Stellar’s blockchain** capabilities for fast and low-cost transactions.
