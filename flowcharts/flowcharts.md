@@ -22,5 +22,13 @@ This diagram outlines the user journey from opening the app to accessing the das
 This diagram outlines the user journey from opening the transaction screen to receiving the successful message (**Checking HorizonAPI & Flutter SDK docs for more transaction options - it is pending**).
 
 <p align="center">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/Transactions.png" width="700" title="Authentication flowchart">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/Transactions.png" width="700" title="Transaction flowchart">
+</p>
+
+### Conversion Flow 
+
+This diagram outlines the user journey from opening the conversion screen to receiving the successful message (**Checking HorizonAPI & Flutter SDK docs for more conversion options - it is pending**).
+
+<p align="center">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/CurrencyConversion.png" width="700" title="Conversion flowchart">
 </p>
