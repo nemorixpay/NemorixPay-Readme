@@ -107,6 +107,17 @@ These basic diagrams outline the user journey from opening the app to accessing 
 
 More details on "[Basic flowcharts](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/flowcharts/flowcharts.md)"
 
+## ⭐User Experience (UX)
+
+The initial UX mockups are presented here. You can view the complete design (both dark and light mode) in the "[Design](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/design/design.md)" subsection.
+
+<p align="center">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/splash_screen.jpg" width="250" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/login_empty_state.jpg" width="250" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="250" title="NemorixPay logo">
+</p>
+
+
 ## :star:Overview of NemorixPay Phase 2 (Future!)
 
 **Phase 2** should expand NemorixPay beyond mobile, offering a secure, scalable, and intuitive web solution for both individual users and merchants. This phase ensures a seamless experience across platforms while leveraging **Stellar’s blockchain** capabilities for fast and low-cost transactions.
