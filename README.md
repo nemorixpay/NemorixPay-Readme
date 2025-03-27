@@ -112,9 +112,9 @@ More details on "[Basic flowcharts](https://github.com/nemorixpay/NemorixPay-Rea
 The initial UX mockups are presented here. You can view the complete design (both dark and light mode) in the "[Design](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/design/design.md)" subsection.
 
 <p align="center">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/splash_screen.jpg" width="250" title="NemorixPay logo">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/login_empty_state.jpg" width="250" title="NemorixPay logo">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="250" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/splash_screen.jpg" width="200" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/login_empty_state.jpg" width="200" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="200" title="NemorixPay logo">
 </p>
 
 
