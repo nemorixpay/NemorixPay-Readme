@@ -43,6 +43,6 @@ NemorixPay implements the Clean Architecture software design pattern and the BLo
 
 ### C4 Diagrams: L1 & L2 
 
-<p align="left">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/C4-L1.png" height="500" title="NemorixPay logo"> <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/C4-L2.png" height="600" title="NemorixPay logo">
-</p>
+| Level 1 | Level 2 |
+|-----------|---------|
+| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/C4-L1.png" height="500" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/C4-L2.png" height="600" title="NemorixPay logo"></p> |
