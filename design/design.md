@@ -4,6 +4,32 @@
   <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/Logo%20Nemorix.png" width="400" title="NemorixPay logo">
 </p>
 
+## 🎨 Color Palette
+
+### 🌑 Dark Mode
+
+| Usage         | Color Code | Preview |
+|--------------|-----------|---------|
+| Scaffold BC      | `#04160D` | ![black](https://readme-swatches.vercel.app/04160D?style=round) |
+| Primary    | `#E7C200` | ![dark-gray](https://readme-swatches.vercel.app/E7C200?style=round) |
+| Secondary       | `#F6F7F8` | ![orange](https://readme-swatches.vercel.app/F6F7F8?style=round) |
+| Grey Level 1       | `#272727` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/272727?style=round'/> |
+| Grey Level 2       | `#5E5E5E` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/5E5E5E?style=round'/> |
+| Grey Level 3       | `#949494` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/949494?style=round'/> |
+| Red       | `#F65556` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/F65556?style=round'/> |
+
+### ☀️ Light Mode
+
+| Usage         | Color Code | Preview |
+|--------------|-----------|---------|
+| Scaffold BC      | `#FFFFFF` | ![black](https://readme-swatches.vercel.app/FFFFFF?style=round) |
+| Primary    | `#E7C200` | ![dark-gray](https://readme-swatches.vercel.app/E7C200?style=round) |
+| Secondary       | `#F6F7F8` | ![orange](https://readme-swatches.vercel.app/F6F7F8?style=round) |
+| Grey Level 1       | `#CCCCCC` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/CCCCCC?style=round'/> |
+| Grey Level 2       | `#EEEEEE` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/EEEEEE?style=round'/> |
+| Grey Level 3       | `#F8F8F8` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/F8F8F8?style=round'/> |
+| Red       | `#F65556` | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/F65556?style=round'/> |
+
 ## Dark Mode / Light Mode
 
 ### Auth Screens
