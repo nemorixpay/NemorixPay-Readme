@@ -49,6 +49,12 @@
 |---|---|---|---|---|---|
 | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/confirm_seed_phrase.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
 
+### KYC Screens
+
+| Dark | Light | Dark | Light | Dark | Light |
+|---|---|---|---|---|---|
+| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_1_dark.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_1_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
+
 ### Home Screens
 
 | Dark | Light | Dark | Light | Dark | Light |
