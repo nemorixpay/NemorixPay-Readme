@@ -59,7 +59,7 @@
 
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
-| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
+| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/crypto_detail_dark.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/crypto_detail_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
 
 ### Buy Screens
 
