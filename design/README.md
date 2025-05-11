@@ -72,3 +72,9 @@
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
 | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/exchange.jpg" width="150" title="Exchange page dark mode"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/light/exchange_light.jpg" width="150" title="Exchange page light mode"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/transaction_history.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
+
+### Profile & Settings Screens
+
+| Dark | Light | Dark | Light | Dark | Light |
+|---|---|---|---|---|---|
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_light.jpg" width="150" title="NemorixPay logo"> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
