@@ -114,7 +114,7 @@ The initial UX mockups are presented here. You can view the complete design (bot
 <p align="center">
   <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/splash_screen.jpg" width="200" title="NemorixPay logo">
   <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/login_empty_state.jpg" width="200" title="NemorixPay logo">
-  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/home%20(2).jpg" width="200" title="NemorixPay logo">
+  <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/transaction_history.jpg" width="200" title="NemorixPay logo">
 </p>
 
 
