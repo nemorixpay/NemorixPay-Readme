@@ -54,7 +54,7 @@ The mobile app will interact with the Stellar blockchain using the [Stellar Flut
 
 📌 *Additional Notes*: The SDK documentation details [transaction signing and submission](https://github.com/Soneso/stellar_flutter_sdk/blob/master/soroban.md), ensuring compliance with Stellar's best practices.
 
-More details on "[Stellar Integration](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/stellar/stellar.md)" subsection.
+More details on "[Stellar Integration](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/stellar/README.md)" subsection.
 
 ## ⭐System Architecture
 
