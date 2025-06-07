@@ -78,3 +78,9 @@
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
 | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/settings_profile_2_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/settings_profile_2_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_light.jpg" width="150" title="NemorixPay logo"> |
+
+### Terms & Conditions Screens
+
+| Dark | Light | 
+|---|---|
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/terms/terms_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/terms/terms_light.jpg" width="150" title="NemorixPay logo"> |
