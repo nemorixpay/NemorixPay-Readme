@@ -43,11 +43,11 @@
 
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
-| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/wallet_setup.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/import_account.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/create_new_account.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> |
+| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/wallet_setup.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/wallet_setup_light.jpg" width="150" title="NemorixPay logo"></p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/import_account.jpg" width="150" title="NemorixPay logo"></p> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/create_new_account.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> |
 
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
-| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/confirm_seed_phrase.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> | <p align="center">Empty</p> |
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/confirm_seed_phrase.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/setup_success/setup_success_dark.jpg" width="150" title="NemorixPay logo">  | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/setup_success/setup_success_light.jpg" width="150" title="NemorixPay logo"> | <p align="center">Empty</p> | <p align="center">Empty</p> |
 
 ### KYC Screens
 
