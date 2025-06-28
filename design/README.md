@@ -71,7 +71,7 @@
 
 | Dark | Light | 
 |---|---|
-| <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_light.jpg" width="150" title="NemorixPay logo"> |
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_dark.png" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_light.jpg" width="150" title="NemorixPay logo"> |
 
 ### Exchange / Transactions Screens
 
