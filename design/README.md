@@ -71,7 +71,7 @@
 
 | Dark | Light | Dark | Light | 
 |---|---|---|---|
-| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_dark.png" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_light.jpg" width="150" title="NemorixPay logo"> | <p align="center">Empty</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/send_crypto_light.jpg" width="150" title="NemorixPay logo"> |
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_dark.png" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/receive_crypto_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/send_crypto_dark.png" width="150" title="NemorixPay logo">  | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/cryptos/send_crypto_light.jpg" width="150" title="NemorixPay logo"> |
 
 ### Exchange / Transactions Screens
 
