@@ -83,7 +83,13 @@
 
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
-| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/settings_profile_2_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/settings_profile_2_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_light.jpg" width="150" title="NemorixPay logo"> |
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/profile_settings_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_02.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/settings_profile_2_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_dark.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/profile_settings/select_language_light.jpg" width="150" title="NemorixPay logo"> |
+
+### Secure option Screens
+
+| Dark | Light | Dark | Light | Dark | Light |
+|---|---|---|---|---|---|
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_01.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_02.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Not available yet</p> | <p align="center">Not available yet</p> |
 
 ### Terms & Conditions Screens
 
