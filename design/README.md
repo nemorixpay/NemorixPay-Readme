@@ -89,7 +89,7 @@
 
 | Dark | Light | Dark | Light | Dark | Light |
 |---|---|---|---|---|---|
-| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_01.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_02.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Not available yet</p> | <p align="center">Not available yet</p> |
+| <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_01.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_01_light.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_02.jpg" width="150" title="NemorixPay logo"> | <img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/security/verification_step_02_light.jpg" width="150" title="NemorixPay logo"> | <p align="center">Not available yet</p> | <p align="center">Not available yet</p> |
 
 ### Terms & Conditions Screens
 
