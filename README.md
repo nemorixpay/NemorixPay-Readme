@@ -93,7 +93,7 @@ Security is paramount in the design of NemorixPay. Key measures include:
 
 By adhering to these initial architectural principles and leveraging the capabilities of the Stellar network, NemorixPay aims to deliver a robust and user-centric platform for cross-border cryptocurrency transactions.
 
-More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/security.md)" subsection.
+More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/README.md)" subsection.
 
 ### Testing & Quality Assurance
 
