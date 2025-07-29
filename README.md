@@ -95,6 +95,12 @@ By adhering to these initial architectural principles and leveraging the capabil
 
 More details on "[Security](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/security/README.md)" subsection.
 
+In terms of compliance, **NemorixPay** is in the process of registering as a **Money Services Business** (MSB) with **FinCEN**.
+
+This registration strengthens our commitment to regulatory compliance, enhances transparency, and builds trust with both users and third-party partners. As an MSB, NemorixPay will operate under federal guidelines that help ensure secure handling of digital assets and responsible financial operations. 
+
+More details on "[MSB](https://github.com/nemorixpay/NemorixPay-Readme/blob/main/msb/README.md)" subsection.
+
 ### Testing & Quality Assurance
 
 Mobile Testing & QA ensures that a mobile application is functional, reliable, secure, and user-friendly before and after release. It involves testing on different devices, OS versions, screen sizes, and network conditions to guarantee a smooth user experience.
