@@ -40,6 +40,7 @@ This section outlines the current state of Stellar integration within the app, i
 | Transaction Management            | Send, sign, and receive payments on Stellar (XLM, USDC).         | ✅ (PoC)                   |
 | Basic Auth login                  | Log in to the app using email and password credentials.          | ✅ (PoC)                   |
 | Advanced Auth login               | Log in to the app using Google or Apple ID (OAuth).              | 🚧 (MVP)                   |
+| Transaction History               | Allow users to view a complete list of their past transactions within the app. | 🚧 (MVP) |
 | Basic Multilanguage Support       | App available in English and Spanish.                            | ✅ (PoC)                   |
 | Local Private Key Custody         | Full local control and internal custody of public/private keys.  | ✅ (PoC)                   |
 | Extended Multilanguage Support    | Add Portuguese and French.                                       | 🚧 (MVP)                  |
