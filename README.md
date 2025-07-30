@@ -29,6 +29,42 @@
 
 <p align="left">Future phases will expand on this foundation by introducing fiat conversion, bank integrations, and additional compliance features.</p>
 
+## :star: Stellar Integration – Progress Overview & Core Features (as of July 2025)
+
+This section outlines the current state of Stellar integration within the app, including key functionality, development progress, and upcoming priorities. Each feature is marked based on its implementation status in the roadmap, from initial proof-of-concept (PoC) to Minimum Viable Product (MVP).
+
+| Functionality                     | Description                                                      | Status (PoC & MVP) |
+| --------------------------------- | ---------------------------------------------------------------- | -------------------- |
+| Account Creation                  | Create new Stellar accounts via the Flutter SDK.                 | ✅ (PoC)                   |
+| Account Import                    | Import existing Stellar accounts using secret keys.              | ✅ (PoC)                   |
+| Transaction Management            | Send, sign, and receive payments on Stellar (XLM, USDC).         | ✅ (PoC)                   |
+| Basic Auth login                  | Log in to the app using email and password credentials.          | ✅ (PoC)                   |
+| Advanced Auth login               | Log in to the app using Google or Apple ID (OAuth).              | 🚧 (MVP)                   |
+| Basic Multilanguage Support       | App available in English and Spanish.                            | ✅ (PoC)                   |
+| Local Private Key Custody         | Full local control and internal custody of public/private keys.  | ✅ (PoC)                   |
+| Extended Multilanguage Support    | Add Portuguese and French.                                       | 🚧 (MVP)                  |
+| Account Creation/Import (SEP-005) | Create and import Stellar accounts using SEP-005.                | 🚧 🔥 (MVP)               |
+| On/Off Ramps (Anchors, SEP-24 or SEP-06)  | Connect with Bitso for MXN ↔️ XLM/USDC deposits and withdrawals. | 🚧 🔥 (MVP)    |
+| CoinGecko API                     | Integration with CoinGecko to gain access to real-time digital asset information.  | 🚧 (MVP)     |
+| KYC (Know Your Customer, SEP-12)  | Integration with Didit.me to meet regulatory compliance and strengthen trust with users and partners.                                | 🔄 🔥 (MVP)                  |
+| Security Enhancements             | Protect account using 2FA App, Biometric login, SMS, and/or Email)    | 🚧 (MVP)                  |
+| Stablecoin Management             | Support for USDC and XLM.                                        | 🔄 (PoC & MVP)            |
+| Smart Contracts (Soroban)         | Not used in V1, planned for future releases.                     | 🌟                   |
+| Key and Seed Phrase Custody       | Full user control of keys (optional: automatic key management).  | 🚧 🔥 (MVP)               |
+| Transparency and Auditability     | Open-source code and verifiable blockchain transactions.         | 🔄 (PoC & MVP)            |
+
+### Status Legend
+
+| Icon | Status        | Brief Description                                         |
+| :--: | :------------ | :-------------------------------------------------------- |
+|  🔄  | In Progress   | The functionality is currently under development.         |
+|  🚧  | Pending       | Not yet started or scheduled for a future release.        |
+|  🌟  | Future        | Planned for a later version.                              |
+|   ✅  | Completed     | Implemented, tested, and working correctly.               |
+|  🛠️ | Under Review  | Completed, but undergoing further adjustments or testing. |
+|  🔥  | High Priority | Critical or top-priority feature on the roadmap.          |
+
+
 ## :star:Initial Technology Stack
 
 <p align="left">NemorixPay’s mobile application will be built with a modern technology stack optimized for security, scalability, and seamless integration with the Stellar blockchain. The selection of technologies ensures high performance, maintainability, and cross-platform support.</p>
