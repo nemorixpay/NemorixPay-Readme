@@ -14,7 +14,7 @@
 A **Money Services Business (MSB)** is a business that provides services such as money transmission or virtual currency value transfer. Under the U.S. Bank Secrecy Act (*31 C.F.R. § 1010.100(ff)*), **platforms like NemorixPay that transmit digital currencies (e.g., XLM, USDC) qualify as MSBs** and must be registered with [FinCEN](https://bsaefiling.fincen.treas.gov/main.html).
 
 ### Who Administers MSB Registration?
-The **Financial Crimes Enforcement Network (FinCEN)**—a bureau of the U.S. Department of the Treasury—is responsible for each MSB’s **Registration of Money Services Business (Form 107)**, which must be filed via FinCEN’s **BSA E-Filing System** within 180 days of establishment, details [here](https://www.fincen.gov/money-services-business-msb-registration).
+The **Financial Crimes Enforcement Network (FinCEN)**, a bureau of the U.S. Department of the Treasury, is responsible for each MSB’s **Registration of Money Services Business (Form 107)**, which must be filed via FinCEN’s **BSA E-Filing System** within 180 days of establishment, details [here](https://www.fincen.gov/money-services-business-msb-registration).
 ##
 ### 🛠 Registration Steps (FinCEN Form 107)
 1. **Enroll in BSA E‑Filing** as an “Institution” ([bsaefiling.fincen.treas.gov](https://bsaefiling.fincen.treas.gov) )
