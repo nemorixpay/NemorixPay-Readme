@@ -66,6 +66,23 @@ This section outlines the current state of Stellar integration within the app, i
 |  🔥  | High Priority | Critical or top-priority feature on the roadmap.          |
 
 
+## ⭐ KYC Feature
+
+### Overview
+
+The **KYC (Know Your Customer)** feature of NemorixPay implements a comprehensive identity verification system using modern technologies and robust architecture. This feature is essential for compliance with financial regulations and ensuring platform security.
+
+**Key Features:**
+- 🔐 Secure identity verification with external KYC provider
+- 🏗️ Clean Architecture with BLoC state management
+- 📱 WebView integration for seamless user experience
+- 🧪 Comprehensive testing strategy
+- 🚀 Scalable and maintainable codebase
+
+**Technologies:** Flutter, BLoC, WebView, Firebase Functions, Secure Storage
+
+**More details on** "[KYC Feature Documentation](https://github.com/nemorixpay/NemorixPay-Readme/tree/main/kyc/README.md)".
+
 ## :star:Initial Technology Stack
 
 <p align="left">NemorixPay’s mobile application will be built with a modern technology stack optimized for security, scalability, and seamless integration with the Stellar blockchain. The selection of technologies ensures high performance, maintainability, and cross-platform support.</p>
