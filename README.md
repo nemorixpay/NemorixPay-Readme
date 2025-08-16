@@ -51,7 +51,8 @@ This section outlines the current state of Stellar integration within the app, i
 | Security Enhancements             | Protect account using 2FA App, Biometric login, SMS, and/or Email)    | 🚧 (MVP)                  |
 | Stablecoin Management             | Support for USDC and XLM.                                        | 🔄 (PoC & MVP)            |
 | Smart Contracts (Soroban)         | Not used in V1, planned for future releases.                     | 🌟                   |
-| Key and Seed Phrase Custody       | Full user control of keys (optional: automatic key management).  | 🚧 🔥 (MVP)               |
+| Custodial Key Management       | Users allow the platform to securely store seed phrases and private/public keys, both locally and remotely (with encryption and backups).  | 🚧 🔥 (MVP)               |
+| Non-Custodial Key Management       | Users retain full control of their seed phrases. The platform will provide local/remote secure storage options for public/private keys.  | 🚧 🔥 (MVP)               |
 | Transparency and Auditability     | Open-source code and verifiable blockchain transactions.         | 🔄 (PoC & MVP)            |
 
 ### Status Legend
