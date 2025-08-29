@@ -24,8 +24,8 @@
 
 * Development of the mobile application for iOS and Android using Flutter.
 * Integration with Stellar SDKs for blockchain transactions.
-* Secure local storage of transaction history and wallet keys (without storing private keys on servers).
-* Basic KYC requirements for initial regulatory compliance is a plus.
+* Secure local storage of transaction history and wallet keys (secure remote storage on servers as well).
+* Basic KYC requirements for initial regulatory compliance.
 
 <p align="left">Future phases will expand on this foundation by introducing fiat conversion, bank integrations, and additional compliance features.</p>
 
@@ -47,7 +47,7 @@ This section outlines the current state of Stellar integration within the app, i
 | Account Creation/Import (SEP-005) | Create and import Stellar accounts using SEP-005.                | 🚧 🔥 (MVP)               |
 | On/Off Ramps (Anchors, SEP-24 or SEP-06)  | Connect with Bitso for MXN ↔️ XLM/USDC deposits and withdrawals. | 🚧 🔥 (MVP)    |
 | CoinGecko API                     | Integration with CoinGecko to gain access to real-time digital asset information.  | 🚧 (MVP)     |
-| KYC (Know Your Customer, SEP-12)  | Integration with Didit.me to meet regulatory compliance and strengthen trust with users and partners.                                | 🔄 🔥 (MVP)                  |
+| KYC (Know Your Customer, SEP-12)  | Integration with Didit.me to meet regulatory compliance and strengthen trust with users and partners.                                | 🔄 🛠️ 🔥 (MVP)                  |
 | Security Enhancements             | Protect account using 2FA App, Biometric login, SMS, and/or Email)    | 🚧 (MVP)                  |
 | Stablecoin Management             | Support for USDC and XLM.                                        | 🔄 (PoC & MVP)            |
 | Smart Contracts (Soroban)         | Not used in V1, planned for future releases.                     | 🌟                   |
