@@ -41,6 +41,18 @@ The **Financial Crimes Enforcement Network (FinCEN)**, a bureau of the U.S. Depa
 
 ##
 
+### 🧭 MSB Filing Status (October, 2025)
+
+| **Stage**            | **Status**     | **Remarks**                                   |
+| -------------------- | -------------- | --------------------------------------------- |
+| Receiving            | ✅ Completed    | Filing submitted in August 2025               |
+| Receipt Confirmation | ✅ Completed    | Official confirmation received in August 2025 |
+| Transmission         | ✅ Completed    | Documentation transmitted in August 2025      |
+| Acknowledgment       | 🔄 In Progress | Acknowledgment received in September 2025     |
+| Final Determination  | ⏳ Pending      | Awaiting official decision                    |
+
+##
+
 ### 📝 Useful Links
 - [FinCEN – MSB Registration Rule & Forms](https://www.fincen.gov/money-services-business-msb-registration) 
 - [FinCEN RMSB E‑Filing Instructions](https://www.fincen.gov/sites/default/files/shared/FinCENRMSB_ElectronicFilingInstructions.pdf) 
