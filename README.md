@@ -66,6 +66,7 @@ This section outlines the current state of Stellar integration within the app, i
 |  🛠️ | Under Review  | Completed, but undergoing further adjustments or testing. |
 |  🔥  | High Priority | Critical or top-priority feature on the roadmap.          |
 
+**More details on** "[Technical Overview](https://github.com/nemorixpay/NemorixPay-Readme/tree/main/technical/README.md)".
 
 ## ⭐ KYC Feature
 
