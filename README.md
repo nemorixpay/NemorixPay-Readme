@@ -29,7 +29,7 @@
 
 <p align="left">Future phases will expand on this foundation by introducing fiat conversion, bank integrations, and additional compliance features.</p>
 
-## :star: Stellar Integration – Progress Overview & Core Features (as of July 2025)
+## :star: Stellar Integration – Progress Overview & Core Features (as of October 2025)
 
 This section outlines the current state of Stellar integration within the app, including key functionality, development progress, and upcoming priorities. Each feature is marked based on its implementation status in the roadmap, from initial proof-of-concept (PoC) to Minimum Viable Product (MVP).
 
