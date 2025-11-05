@@ -43,13 +43,14 @@ The **Financial Crimes Enforcement Network (FinCEN)**, a bureau of the U.S. Depa
 
 ### 🧭 MSB Filing Status (October, 2025)
 
+NemorixPay has completed sucessfully the MSB registration with FinCEN.
+
 | **Stage**            | **Status**     | **Remarks**                                   |
 | -------------------- | -------------- | --------------------------------------------- |
 | Receiving            | ✅ Completed    | Filing submitted in August 2025               |
 | Receipt Confirmation | ✅ Completed    | Official confirmation received in August 2025 |
 | Transmission         | ✅ Completed    | Documentation transmitted in August 2025      |
-| Acknowledgment       | 🔄 In Progress | Acknowledgment received in September 2025     |
-| Final Determination  | ⏳ Pending      | Awaiting official decision                    |
+| Acknowledgment       | ✅ Completed | Acknowledgment received in September 2025     |
 
 ##
 
