@@ -47,7 +47,7 @@ NemorixPay has completed sucessfully the MSB registration with FinCEN.
 
 | **Stage**            | **Status**     | **Remarks**                                   |
 | -------------------- | -------------- | --------------------------------------------- |
-| Receiving            | ✅ Completed    | Filing submitted in August 2025               |
+| Receiving            | ✅ Completed    | Filing submitted in July 2025               |
 | Receipt Confirmation | ✅ Completed    | Official confirmation received in August 2025 |
 | Transmission         | ✅ Completed    | Documentation transmitted in August 2025      |
 | Acknowledgment       | ✅ Completed | Acknowledgment received in September 2025     |
