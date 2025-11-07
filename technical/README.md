@@ -28,9 +28,10 @@ This document provides a summary of the ongoing technical work, partner integrat
 | **Wallet Dashboard** | Simple and intuitive interface for managing balances, transaction history, etc. | 🔄 In Progress |
 | **KYC Foundation** | Integrated KYC/AML services via Didit. | 🛠️ Under Review (Testing) |
 | **Accessibility** | Deployment on both Android and iOS platforms. | 🔄 In Progress |
-| **Anchor Integration** | Technical integration with Bitso’s sandbox environment. | ⏳ Pending (Awaiting MSB license approval) |
-| **MSB Registration** | Money Services Business (MSB) registration process. | ⏳ Pending (Awaiting final decision) |
+| **Anchor Integration** | Technical integration with Bitso’s sandbox environment. | ⏳ Pending |
+| **MSB Registration** | Money Services Business (MSB) registration in FinCEN. | ✅ Completed |
 | **Extended Localization** | Additional Portuguese language support. | ⏳ Pending |
+| **Extended Localization** | Additional French language support. | ⏳ Pending |
 | **Wallet Advanced Operations** | Expanding wallet support to full SEP-005/BIP-44 derivation standards. | ⏳ Pending |
 | **New Account Access Methods** | Users will be able to sign in using Google and Apple ID authentication options. | ⏳ Pending |
 
