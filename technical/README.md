@@ -11,6 +11,18 @@
 
 This document provides a summary of the ongoing technical work, partner integration status, and testing environments for the **NemorixPay** project.
 
+## 📊 Analytics Dashboard
+
+Track and analyze NemorixPay’s growth and system performance using visual metrics and analytical dashboards. (*Under Construction*)
+
+[Analytics Dashboard](https://nemorixpay.com/analytics)
+
+<p align = "center">
+<a href="https://nemorixpay.com/analytics"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/website/analytics.png" alt="Analytics Dashboard" height="400"></a>
+</p>
+
+#
+
 ## ⚙️ Technical Work
 
 | Area | Description | Status |
