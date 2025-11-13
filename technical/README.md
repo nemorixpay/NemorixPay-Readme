@@ -93,7 +93,7 @@ After installation, you will have two options:
 1) Create a new account using your personal email:
 
 If you want to use your own email address, it must be valid and accessible.  
-After registration, the system will send a verification link to confirm that the email exists.  
+After registration, the system will send a verification link to confirm that the email exists. Please also check your spam folder.   
 You must complete this verification to log in successfully.  
 If you don’t have access to this email, you won’t be able to proceed past the sign-in page.  
 This serves as our **first security layer** to **prevent spam registrations** and the use of non-existent email accounts.  
@@ -110,10 +110,41 @@ Remote storage is still under development and not yet active, if you open the ap
 
 | Detail | Information |
 |---------|--------------|
-| **Testing Program** | [TestFlight Internal Test](https://www.apple.com/) |
+| **Testing Program** | [TestFlight Internal Test](https://testflight.apple.com/join/UHC1JNhA) |
 | **Test Account** | `tester@nemorixpay.com` |
 | **Password** | `tester20!25!` |
-| **Status** | 🔄 Under Review |
+| **Status** | ✅ Active |
+
+**Install Directions/Important note:**
+
+When accessing the TestFlight internal testing program, please follow these simple steps:
+
+1) Click this [link](https://testflight.apple.com/join/UHC1JNhA) on your iOS device.
+2) Download and install TestFlight from the App Store.
+3) Open TestFlight and allow notifications.
+4) Agree to the Terms & Conditions.
+5) Tap “View NemorixPay in TestFlight.”
+6) Install NemorixPay.
+7) Open NemorixPay.
+8) Tap “Next” and “Start Testing.”
+
+**Creating an account in the app:**
+
+After installation, you will have two options:
+
+1) Create a new account using your personal email:
+
+If you want to use your own email address, it must be valid and accessible.  
+After registration, the system will send a verification link to confirm that the email exists. Please also check your spam folder.   
+You must complete this verification to log in successfully.  
+If you don’t have access to this email, you won’t be able to proceed past the sign-in page.  
+This serves as our **first security layer** to **prevent spam registrations** and the use of non-existent email accounts.  
+
+2) Use our tester account:
+
+You can use our tester account (email: `tester@nemorixpay.com`, password: `tester20!25!`) to log in successfully, as it is already registered in our system as an active user.  
+After logging in, you can create a new account, which will be stored locally on your device.  
+Remote storage is still under development and not yet active, if you open the app on another device, you’ll need to create a new local account for that device.  
 
 ---
 
