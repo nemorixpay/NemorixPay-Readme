@@ -49,15 +49,14 @@ Track and analyze NemorixPay’s growth and system performance using visual metr
 These test accounts and transactions need to be updated monthly, as the Stellar Testnet resets approximately once a month, clearing all previously created accounts and transactions.
 As part of our ongoing development process, we regularly create new test accounts and execute transactions to validate NemorixPay’s core features.
 
-**Status**: Active as of **November 7, 2025** (*Under Review*)
+**Status**: Active as of **November 15, 2025** (*Under Review*)
 
-- [Account 01 – GBAXMWXKTFLCWUEILWR2LNQLIVC6FNMY7VSLX5B3NAZIDWYUIAVL6Y7N](https://stellar.expert/explorer/testnet/account/GBAXMWXKTFLCWUEILWR2LNQLIVC6FNMY7VSLX5B3NAZIDWYUIAVL6Y7N)
+- [Account 01 – GBY5YKD4CFY2MA4UFAFWTXDZI6WRJU3ZCXZZQXMFZU7F5ED2DWDH42R2](https://stellar.expert/explorer/testnet/account/GBY5YKD4CFY2MA4UFAFWTXDZI6WRJU3ZCXZZQXMFZU7F5ED2DWDH42R2)  
+- [Account 03 – GD5HWKVGKHDQYBUN4RSDHBP7Z3MA7PNYBZIM5ZQXCD3ARIIGGBGLHX43](https://stellar.expert/explorer/testnet/account/GD5HWKVGKHDQYBUN4RSDHBP7Z3MA7PNYBZIM5ZQXCD3ARIIGGBGLHX43)  
+- [Account 02 – GC4MGFJLSS2H3YYXNMR2CTK3L5ADGZSZ6ET3EEJCI7M3CHIL2ZY2J23B](https://stellar.expert/explorer/testnet/account/GC4MGFJLSS2H3YYXNMR2CTK3L5ADGZSZ6ET3EEJCI7M3CHIL2ZY2J23B)
+- [Transaction 01 – 366b16ea373aa799d79a6ae7c01fb77eaa0ee98f6d0bd3c59ec269ebefd29124](https://stellar.expert/explorer/testnet/tx/6842458428149760)
+- [Transaction 02 – 1b4a5dc0a2925a279105271a7afb251d9a7d2639e0e18ae8f0027630ecd7d5c0](https://stellar.expert/explorer/testnet/tx/3807441263271936)
 
-- [Account 02 – GDWJBSBKYNWWAFTX6BVPVGANRZLVH3FHYGJW2XVUK6KHNVEXEYBYNEVJ](https://stellar.expert/explorer/testnet/account/GDWJBSBKYNWWAFTX6BVPVGANRZLVH3FHYGJW2XVUK6KHNVEXEYBYNEVJ)
-
-- [Account 03 – GD5HWKVGKHDQYBUN4RSDHBP7Z3MA7PNYBZIM5ZQXCD3ARIIGGBGLHX43](https://stellar.expert/explorer/testnet/account/GD5HWKVGKHDQYBUN4RSDHBP7Z3MA7PNYBZIM5ZQXCD3ARIIGGBGLHX43)
-
-- [Transaction 01 – 1b4a5dc0a2925a279105271a7afb251d9a7d2639e0e18ae8f0027630ecd7d5c0](https://stellar.expert/explorer/testnet/tx/3807441263271936)
 
 
 ## 🤝 Partners / Integration Status
