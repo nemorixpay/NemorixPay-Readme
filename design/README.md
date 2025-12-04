@@ -55,6 +55,13 @@
 |---|---|---|---|---|---|
 | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_1_dark.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_1_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_2_dark.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_2_light.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_3_dark.jpg" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/design/kyc/kyc_3_light.jpg" width="150" title="NemorixPay logo"></p> |
 
+### Didit Integration Screens
+
+| Dark | Light | Dark | Light | Dark | Light |
+|---|---|---|---|---|---|
+| <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/integrations/didit/didit_3.png" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/integrations/didit/didit_2.png" width="150" title="NemorixPay logo"></p> | <p align="left"><img src="https://github.com/nemorixpay/NemorixPay-Readme/blob/main/img/integrations/didit/didit_1.png" width="150" title="NemorixPay logo"></p> | <p align="center">Empty</p>  | <p align="center">Empty</p>  | <p align="center">Empty</p>  |
+
+
 ### Home Screens
 
 | Dark | Light | Dark | Light | Dark | Light |
